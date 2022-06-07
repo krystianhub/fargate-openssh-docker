@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/openssh-server:8.8_p1-r1-ls80
+FROM ghcr.io/linuxserver/openssh-server:8.8_p1-r1-ls81
 
 ENV SUDO_ACCESS=true
 ENV PASSWORD_ACCESS=true
